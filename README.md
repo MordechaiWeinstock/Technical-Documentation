@@ -1,2 +1,2 @@
-# Technical-Documentation
-HTML and CSS project
+# Technical Documentation
+![screenshot of the app](capture.png)
